@@ -1,0 +1,5 @@
+
+#overlay-align("left", "middle", circle(30, "solid", "yellow"),
+#overlay-align("right", "middle", circle(30, "solid", "yellow"),
+# overlay-align("center", "middle", circle(40, "solid", "yellow"),
+# rectangle(200, 100, "solid", "pink"))))
